@@ -18,6 +18,9 @@ This guide was created as a means to help others as the navigate through the cod
     - [Java Data Types](#java-data-types)
 - [License](#license)
 - [Badges](#badges)
+- [Features](#features)
+- [How To Contribute](#how-to-contribute)
+- [Tests](#tests)
 
 ## Installation
 
